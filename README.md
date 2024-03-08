@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeofGuff
 - 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning HTML + CSS
+- 🌱 I’m currently learning HTML + CSS / JS next.
 - 💞️ I’m looking to collaborate on anything that helps me learn!
 - 📫 How to reach me DM me here. 
 - ⚡ Fun fact: I voice act. 
