@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeofGuff
 - 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning Game Dev using Godot and GDScripting language. As well as taking Python courses to better understand programming in general. 
+- 🌱 I’m currently learning iOS development. I hope to be hired as an iOS dev one day!
 - 💞️ I’m looking to collaborate on anything that helps me learn!
 - 📫 How to reach me DM me here. 
 - ⚡ Fun fact: I voice act. 
