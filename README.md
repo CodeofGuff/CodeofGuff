@@ -20,9 +20,9 @@ After reviewing his programs and techniques, I knew this was something I wanted 
 I am focusing on iOS development but also diving deep into backend architecture, design, and other languages such as JS and Python. 
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable, neat, and refined.
 <ul>
-   <li><a href="https://github.com/CodeofGuff/codeCademy_Swift">Swift via Codecademy</a></li>
-   <li><a href="https://github.com/CodeofGuff/100DoSui">Swift via 100 Days of SwiftUI (ty Paul)</a></li>
-   <li><a href="https://github.com/CodeofGuff?tab=repositories">All my Repos</a></li>
+   <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift via Codecademy</a></li>
+   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift via 100 Days of SwiftUI (ty Paul)</a></li>
+   <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
 
 ## Learning and Collaboration
