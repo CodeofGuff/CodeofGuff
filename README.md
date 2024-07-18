@@ -7,11 +7,13 @@ My name is David, but people usually call me Guff from my last name, Guffre.
 My current main learning focus is in the Swift language. I am using many different tools and avenues to get a well-rounded understanding as I pivot careers.
 
 - I started slow with HTML/CSS to grab some basics of web design.
-- To understand what programming is more deeply, I learned Python soon after.
+- I quickly found Godot and GD.Script after and delved into some game design. 
+- To understand what programming is more deeply though, I learned Python.
 - I practiced Python a bit with my brother to understand problem solving with it.
-  - He has been programming for 20+ years, mainly in C and Python recently. [Check out his Repo here!](https://github.com/guffre)
+   </br>He has been programming for 20+ years, mainly in C and Python recently. [Check out his Repo here!](https://github.com/guffre)
 
-After reviewing his programs and techniques, I knew this was something I wanted to pursue further and explore deeply. I have made the pivot to diving deep into the Swift language because I feel it offers so much, and I am eager to see what that is.
+After reviewing his programs and techniques, I knew this was something I wanted to pursue further and explore deeply. 
+</br> I have made the pivot to diving deep into the Swift language because I feel it offers so much, and I am eager to see what that is.
 
 ## Current Focus
 
