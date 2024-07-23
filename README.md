@@ -21,7 +21,7 @@ I am focusing on iOS development but also diving deep into backend architecture,
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable, neat, and refined.
 <ul>
    <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift via Codecademy</a></li>
-   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift via 100 Days of SwiftUI (ty Paul)</a></li>
+   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift via 100 Days of SwiftUI</a></li>
    <li><a href="https://github.com/CodeofGuff/tarotReaderAppSwift" target="_blank">My current app project, a Tarot card reader</a></li>
    <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
