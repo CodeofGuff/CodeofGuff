@@ -17,8 +17,8 @@ After reviewing his programs and techniques, I knew this was something I wanted 
 
 ## Current Focus
 
-I am focusing on iOS development but also diving deep into backend architecture, design, and other languages such as JS and Python. 
-</br> My goal is to ensure I can not only deploy a full app but also make it scalable, neat, and refined.
+I am focusing on iOS development / design, along side other languages such as JS and Python to have an understanding of them when I need to use them. 
+</br> My goal is to ensure I can not only deploy a full app but also make it scalable and refined.
 <ul>
    <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift via Codecademy</a></li>
    <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift via 100 Days of SwiftUI</a></li>
