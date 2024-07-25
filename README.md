@@ -13,7 +13,7 @@ My current main learning focus is in the Swift language. I am using many differe
    </br>He has been programming for 20+ years, mainly in C and Python recently. [Check out his Repo here!](https://github.com/guffre)
 
 After reviewing his programs and techniques, I knew this was something I wanted to pursue further and explore deeply. 
-</br> I have made the pivot to diving deep into the Swift language because I feel it offers so much, and I am eager to see what that is.
+</br> I have enjoyed diving deep into the Swift language because I feel it offers so much, and I am eager to see what that is.
 
 ## Current Focus
 
