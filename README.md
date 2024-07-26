@@ -31,7 +31,6 @@ I am focusing on iOS development / design, along side other languages such as JS
 As my learning continues, I want to collaborate with others and learn from them. 
 </br>As someone who has been an athlete, a competitive gamer, and worked in challenging environments, I appreciate how to learn from the experience of others.
 
-I can't wait to be part of this awesome tech community!
 
 ## Contact
 
