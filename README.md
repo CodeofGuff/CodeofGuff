@@ -2,7 +2,7 @@
 
 My name is David, but people usually call me Guff from my last name, Guffre.
 I am a self-taught programmer with a huge passion for learning all things tech related. 
-If you are hear I assume you are coming from Linkedin or another Social so feel free to browse around and check out some of my work. 
+If you are here I assume you are coming from Linkedin or another Social so feel free to browse around and check out some of my work. 
 I try and keep all my Read Me's up to date as I can. 
 
 ## About Me
