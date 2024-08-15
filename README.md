@@ -39,7 +39,7 @@ As my learning continues, I want to collaborate with others and learn from them.
 
 📫 DM me here or on X (Twitter)!
 
-⚡ Fun facts: I am a voice actor, restaurant manager(worked every position in a restaurant), and currently in a main leadership role for a competitive Squad(game) team!!
+⚡ Fun facts: I am a voice actor, bartender(worked every position in a restaurant), and currently in a main leadership role for a competitive Squad(game) team!!
 
 
 <!---
