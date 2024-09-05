@@ -23,7 +23,13 @@ After reviewing his programs and techniques, I knew this was something I wanted 
 I am focusing on iOS development / design, along side other languages to have an understanding of them when I need to use them. 
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable and refined.
 
+## Current Project:
+ # Tip / Pay Tracker for restaurant Employees
+ <ul>
+   <li><a href="[https://github.com/CodeofGuff/codeCademy_Swift](https://github.com/CodeofGuff/XCodeRepo/tree/main/BarTips)" target="_blank">BarTips</a></li>
+ </ul>
 
+ 
 ## Some of my Repos: 
 <ul>
    <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift via Codecademy</a></li>
