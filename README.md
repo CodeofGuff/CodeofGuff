@@ -24,7 +24,7 @@ I am focusing on iOS development / design, along side other languages to have an
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable and refined.
 
 
-## Some of my Repos: 
+## Projects and Repos: 
 <ul>
    <li><a href="https://github.com/CodeofGuff/XCodeMainRepo/tree/main/BarTips" target="_blank">BarTips: Pay tracker for restaurant workers</a></li>
    <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift Language Learning via Codecademy</a></li>
