@@ -26,7 +26,7 @@ I am focusing on iOS development / design, along side other languages to have an
 ## Current Project:
  # Tip / Pay Tracker for restaurant Employees
  <ul>
-   <li><a href="[https://github.com/CodeofGuff/codeCademy_Swift](https://github.com/CodeofGuff/XCodeRepo/tree/main/BarTips)" target="_blank">BarTips</a></li>
+   <li><a href="https://github.com/CodeofGuff/XCodeRepo/tree/main/BarTips" target="_blank">BarTips</a></li>
  </ul>
 
  
