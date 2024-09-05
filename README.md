@@ -27,9 +27,9 @@ I am focusing on iOS development / design, along side other languages to have an
 ## Some of my Repos: 
 <ul>
    <li><a href="https://github.com/CodeofGuff/XCodeRepo/tree/main/BarTips" target="_blank">BarTips: Pay tracker for restaurant workers</a></li>
-   <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift via Codecademy</a></li>
-   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift via 100 Days of SwiftUI</a></li>
-   <li><a href="https://github.com/CodeofGuff/XCodeRepo" target="_blank">All My Learning Projects (Apps)</a></li>
+   <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift Language Learning via Codecademy</a></li>
+   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift Language Learning via 100 Days of SwiftUI</a></li>
+   <li><a href="https://github.com/CodeofGuff/XCodeRepo" target="_blank">All my Learning Apps</a></li>
    <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
 
