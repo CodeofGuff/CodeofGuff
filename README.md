@@ -24,7 +24,7 @@ I am focusing on iOS development / design, along side other languages to have an
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable and refined.
 
 ## Current Project:
-Tip / Pay Tracker for restaurant Employees:
+Tip / Pay Tracker for restaurant Employees: </br>
  <a href="https://github.com/CodeofGuff/XCodeRepo/tree/main/BarTips" target="_blank">BarTips</a>
 
  
