@@ -2,34 +2,19 @@
 
 My name is David, but people usually call me Guff from my last name, Guffre.
 I am a self-taught programmer with a huge passion for learning all things tech related. 
-If you are here I assume you are coming from Linkedin or another Social so feel free to browse around and check out some of my work. 
-I try and keep all my Read Me's up to date as I can. 
 
-## About Me
+## My current tech knowledge
 
-My current main learning focus is in the Swift language. I am using many different tools and avenues to get a well-rounded understanding as I pivot careers.
-
-- I started with HTML/CSS to grab some basics of web design.
-- I quickly found Godot and GD.Script after and delved into some game design. 
-- To understand what programming is more deeply though, I learned with Python.
-- I practiced Python a bit with my brother to understand problem solving with it.
-   </br>He has been programming for 20+ years, mainly in C and Python recently. [Check out his Repo here!](https://github.com/guffre)
-
-After reviewing his programs and techniques, I knew this was something I wanted to pursue further and explore deeply. 
-</br> I have enjoyed diving deep into the Swift language because I feel it offers so much, and I am eager to see what that is.
+HTML, CSS, JavaScript, Swift/SwiftUI, React, React Native
 
 ## Current Focus
 
-I am focusing on iOS development / design, along side other languages to have an understanding of them when I need to use them. 
+I am focusing on multiplatform apps using React / React Native
 </br> My goal is to ensure I can not only deploy a full app but also make it scalable and refined.
 
 
 ## Projects and Repos: 
 <ul>
-   <li><a href="https://github.com/CodeofGuff/XCodeMainRepo/tree/main/BarTips" target="_blank">BarTips: Pay tracker for restaurant workers(WIP)</a></li>
-   <li><a href="https://github.com/CodeofGuff/codeCademy_Swift" target="_blank">Swift Language Learning via Codecademy</a></li>
-   <li><a href="https://github.com/CodeofGuff/100DoSui" target="_blank">Swift Language Learning via 100 Days of SwiftUI</a></li>
-   <li><a href="https://github.com/CodeofGuff/XCodeRepo" target="_blank">All my Learning Apps</a></li>
    <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
 
