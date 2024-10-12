@@ -5,10 +5,10 @@ I am a self-taught programmer with a huge passion for learning all things tech r
 
 ## My current tech knowledge
 
-Languages I know well: 
+Languages I know well: </br>
 HTML, CSS, JavaScript, Python, Swift
 
-Frameworks I am Currently Focusing on: 
+Frameworks I am Currently Focusing on: </br>
 SwiftUI, React, React Native, Expo, Node
 ## Current Focus
 
