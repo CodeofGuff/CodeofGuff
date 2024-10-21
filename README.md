@@ -33,7 +33,7 @@ As my learning continues, I want to collaborate with others and learn from them.
 
 ## Contact
 
-📫 DM me here or on X (Twitter)!
+📫 DM me here or on <a href="https://x.com/home">X (Twitter)</a>!
 
 ⚡ Fun facts: I am a voice actor, bartender(worked every position in a restaurant), and currently in a main leadership role for a competitive gaming team!
 
