@@ -6,13 +6,17 @@ I am a self-taught programmer with a huge passion for learning all things tech r
 ## My current tech knowledge
 
 Languages I know well: </br>
-HTML, CSS, JavaScript, Python, Swift
+HTML, CSS, JavaScript(TS)
 
 Frameworks I am Currently Focusing on: </br>
-SwiftUI, React, React Native, Expo, Node
+React Native, Expo
+
+Languages / Frameworks I have learned breifly: 
+Swift, SwiftUI, Python
+
 ## Current Focus
 
-I am focusing on multiplatform apps using React / React Native / Expo
+I am focusing on multiplatform apps using React Native / Expo
 </br> My goal is to ensure I can not only deploy a full, functional and secure app but also make it scalable and polished.
 
 
