@@ -1,6 +1,6 @@
 # 👋 Hey there,
 
-My name is David, but people usually call me Guff from my last name, Guffre.
+My name is David, but people usually call me Guff from my last name, Guffre. </br>
 I am a self-taught programmer with a huge passion for learning all things tech related. 
 
 ## My current tech knowledge
