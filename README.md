@@ -12,7 +12,7 @@ Frameworks I am Currently Focusing on: </br>
 React Native, Expo
 
 Languages / Frameworks I use breifly:  </br>
-Swift/UI, Python
+Swift, Python
 
 ## Current Focus
 
