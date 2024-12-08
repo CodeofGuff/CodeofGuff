@@ -11,8 +11,8 @@ HTML, CSS, JS/TS
 Frameworks I am Currently Focusing on: </br>
 React Native, Expo
 
-Languages / Frameworks I have learned breifly:  </br>
-Swift, SwiftUI, Python
+Languages / Frameworks I use breifly:  </br>
+Swift/UI, Python
 
 ## Current Focus
 
