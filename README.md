@@ -9,7 +9,7 @@ Languages I know well: </br>
 HTML, CSS, JS/TS
 
 Frameworks I am Currently Focusing on: </br>
-React Native, Expo
+React, React Native
 
 Languages / Frameworks I use breifly:  </br>
 Swift, Python
