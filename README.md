@@ -1,6 +1,6 @@
 # 👋 Hey there,
 
-My name is David, but people usually call me Guff from my last name, Guffre. </br>
+My name is David, but people usually call me Guff!</br>
 I am a self-taught programmer with a huge passion for learning all things tech related. 
 
 ## My current tech knowledge
@@ -9,7 +9,7 @@ Languages I know well: </br>
 HTML, CSS, JS/TS
 
 Frameworks I am Currently Focusing on: </br>
-React, React Native
+React, React Native/Expo
 
 Languages / Frameworks I use breifly:  </br>
 Swift, Python
@@ -23,6 +23,7 @@ I am focusing on multiplatform apps using React Native / Expo
 ## Projects and Repos: 
 <ul>
    <li><a href="https://github.com/CodeofGuff/SquadPlanner" target="_blank">Squad Planner Code Base</a></li>
+   <li><a href="https://github.come/CodeofGuff/TarotAppProject" target="-blank">Tarot Card Project</a></li>
    <li><a href="https://github.com/CodeofGuff/codeofguff.github.io" target="_blank">github.io Code Base</a></li>
    <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
