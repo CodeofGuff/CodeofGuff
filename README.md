@@ -23,7 +23,7 @@ I am focusing on multiplatform apps using React Native / Expo
 ## Projects and Repos: 
 <ul>
    <li><a href="https://github.com/CodeofGuff/SquadPlanner" target="_blank">Squad Planner Code Base</a></li>
-   <li><a href="https://github.come/CodeofGuff/TarotAppProject" target="-blank">Tarot Card Project</a></li>
+   <li><a href="https://github.come/CodeofGuff/TarotAppProject" target="-blank">Tarot Card Project Code Base</a></li>
    <li><a href="https://github.com/CodeofGuff/codeofguff.github.io" target="_blank">github.io Code Base</a></li>
    <li><a href="https://github.com/CodeofGuff?tab=repositories" target="_blank">All my Repos</a></li>
 </ul>
