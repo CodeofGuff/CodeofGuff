@@ -3,22 +3,9 @@
 My name is David, but people usually call me Guff!</br>
 I am a self-taught programmer with a huge passion for learning all things tech related. 
 
-## My current tech knowledge
-
-Languages I know well: </br>
-HTML, CSS, JS/TS
-
-Frameworks I am Currently Focusing on: </br>
-React, React Native/Expo
-
-Languages / Frameworks I use breifly:  </br>
-Swift, Python
-
 ## Current Focus
 
-I am focusing on multiplatform apps using React Native / Expo
-</br> My goal is to ensure I can not only deploy a full, functional and secure app but also make it scalable and polished.
-
+ I am currently focusing on developing using the React library for Web Development. 
 
 ## Projects and Repos: 
 <ul>
